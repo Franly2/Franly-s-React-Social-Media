@@ -23,18 +23,18 @@ export const Account = () => {
 
   return (
     <div className="mt-10">
-      <p className="text-center font-poppins text-6xl text-black font-extrabold">
+      <p className="text-center font-poppins text-3xl  md:text-6xl text-black font-extrabold">
         Sign In
       </p>
-      <div className=" md:flex md:items-center">
-        <div className=" md:w-1/2">
+      <div className=" md:flex md:items-center md:mt-5">
+        <div className=" md:w-1/2 mt-5">
           <img
             src={accountIllustration}
             alt="account illustration"
-            className=" mx-auto md:1/3"
+            className=" mx-auto md:1/3 -ml-6 md:ml-0"
           />
         </div>
-        <div className="flex flex-col gap-5 w-3/4 mt-5 md:mt-0  md:w-60 lg:w-80 mx-auto">
+        <div className="flex flex-col gap-5 w-3/4  md:mt-0  md:w-60 lg:w-80 mx-auto mt-20">
           {user ? (
             ""
           ) : (
