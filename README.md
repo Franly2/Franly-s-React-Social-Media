@@ -1,3 +1,7 @@
+Visit this project [here](https://react-social-media-7b56c.web.app/).
+
+![preview](/preview.png)
+
 ## 📘 Project Description
 
 **Franly’s React Social Media** is a streamlined social media application built using the modern web stack:
@@ -123,8 +127,4 @@ Open `http://localhost:5173` in your browser to see the application in action.
 
 ---
 
-Would you like me to create the `.env.example` file content for you as well?
 
-Visit this project [here](https://react-social-media-7b56c.web.app/).
-
-![preview](/preview.png)
